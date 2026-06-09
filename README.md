@@ -3,7 +3,7 @@
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 Customer churn is one of the biggest challenges in the telecommunications industry. Understanding why customers leave can help companies improve retention strategies and increase long-term profitability.
 
@@ -13,7 +13,7 @@ The dashboard transforms raw customer data into actionable business insights tha
 
 ---
 
-# 🎯 Business Objectives
+#  Business Objectives
 
 * Analyze customer churn behavior.
 * Identify the major drivers of churn.
@@ -23,7 +23,7 @@ The dashboard transforms raw customer data into actionable business insights tha
 
 ---
 
-# 🛠 Tools Used
+#  Tools Used
 
 * Power BI
 * Power Query
@@ -34,7 +34,7 @@ The dashboard transforms raw customer data into actionable business insights tha
 
 ---
 
-# 🔄 Data Preparation
+#  Data Preparation
 
 The dataset was prepared through several preprocessing steps:
 
@@ -73,10 +73,10 @@ Key measures created include:
 
 ## Executive KPIs
 
-* 👥 Total Customers: 7K
-* 📉 Churn Customers: 1.9K
-* 📊 Churn Rate: 26.5%
-* 💰 Total Revenue: 16M
+*  Total Customers: 7K
+*  Churn Customers: 1.9K
+*  Churn Rate: 26.5%
+*  Total Revenue: 16M
 
 ---
 
@@ -87,7 +87,7 @@ Key measures created include:
 
 ---
 
-# 📈 Key Insights
+#  Key Insights
 
 ## Payment Method
 
