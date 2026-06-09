@@ -1,6 +1,5 @@
 # 📊 Telecom Customer Churn Analysis Dashboard
 
-<img width="957" height="542" alt="image" src="https://github.com/user-attachments/assets/718836cd-138e-473f-b0b8-5b4c0d14f51f" />
 
 ---
 
@@ -83,13 +82,8 @@ Key measures created include:
 
 ## Dashboard Screenshot
 
-Upload your dashboard image as:
+<img width="957" height="542" alt="image" src="https://github.com/user-attachments/assets/640ccf99-65bb-4707-ac82-1baa0b9b6cc7" />
 
-Dashboard.png
-
-Then GitHub will automatically display it here.
-
-![Dashboard](Dashboard.png)
 
 ---
 
@@ -140,44 +134,6 @@ Develop personalized retention offers for high-charge customers.
 ### Increase Customer Loyalty
 
 Implement reward programs to improve customer lifetime value.
-
----
-
-# 🚀 Skills Demonstrated
-
-✅ Data Cleaning
-
-✅ Data Transformation
-
-✅ Data Modeling
-
-✅ DAX Calculations
-
-✅ KPI Development
-
-✅ Business Intelligence
-
-✅ Dashboard Design
-
-✅ Data Visualization
-
-✅ Business Storytelling
-
-✅ Customer Churn Analysis
-
----
-
-# 📂 Repository Structure
-
-```text
-telecom-customer-churn-analysis/
-│
-├── README.md
-├── Telecom_Churn_Analysis.pbix
-├── Dashboard.png
-├── Dataset.csv
-└── Documentation.pdf
-```
 
 ---
 
