@@ -146,8 +146,4 @@ This project demonstrates how Business Intelligence techniques can transform cus
 # 👤 Author
 
 ## Noor Ayyad
-
 Business Intelligence & Data Analysis Graduate
-
-
-⭐ If you found this project interesting, feel free to star the repository!
