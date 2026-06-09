@@ -80,7 +80,7 @@ Key measures created include:
 
 ---
 
-## Dashboard Screenshot
+## Dashboard
 
 <img width="957" height="542" alt="image" src="https://github.com/user-attachments/assets/640ccf99-65bb-4707-ac82-1baa0b9b6cc7" />
 
